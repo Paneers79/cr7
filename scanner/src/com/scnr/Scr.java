@@ -25,6 +25,10 @@ public class Scr {
 		System.out.println("my age");
 		byte age = sc.nextByte();
 		System.out.println("age is"+age);
+		
+		System.out.println("name1");
+		String name1 = sc.next();
+		System.out.println("name  is "+name1);
 
 	}
 
